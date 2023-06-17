@@ -4,7 +4,6 @@ Raport Robert Bieniek
 
 
 1. Wprowadzenie przedmiotów do systemu w podanej kolejności
-
 a) Nazwa: Metodologie obiektowe, ECTS: 2, Sala: 216, Egzamin: tak,
 Metoda: POST
 Adres zasobu: http://localhost:8080/api/activities
